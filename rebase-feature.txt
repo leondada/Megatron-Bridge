@@ -1,3 +1,2 @@
 Feature work before rebase.
 Local commit before push.
-This line should not exist.
