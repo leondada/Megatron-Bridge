@@ -1,1 +1,2 @@
 Feature work before rebase.
+Local commit before push.
